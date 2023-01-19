@@ -4,7 +4,7 @@
 
 More details [here](https://www.youtube.com/@hoodscomputerscienceprojects)
 
-![3d Hand](img/hand.jpg)
+![3d Hand](img/3d_hand.png)
 
 ### Please leave comments and subscribe :)
 
